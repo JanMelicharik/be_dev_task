@@ -1,0 +1,10 @@
+# Environment
+.env
+
+# Virtual Environment
+.venv/
+
+# Mac OS specific
+.DS_Store
+
+.idea/
