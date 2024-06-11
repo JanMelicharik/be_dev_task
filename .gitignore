@@ -1,3 +1,6 @@
+# DB data
+chroma/
+
 # Environment
 .env
 
