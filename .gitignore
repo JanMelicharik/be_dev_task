@@ -1,6 +1,9 @@
 # DB data
 chroma/
 
+# pycache
+**/__pycache__/
+
 # Environment
 .env
 
